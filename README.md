@@ -1,6 +1,6 @@
 <h1 align="center">Hi there👋, I'm Yajnasenee</h1>
 
-<img align="right" alt="Coding" width="380" margin"500" src="https://github.com/ypadhi27/ypadhi27/blob/7bf33f340ccd63a22f5d5a9a2568376bc2eeb35b/lottie-000_1_1.gif">
+<img align="right" alt="Coding" width="380" margin"500" src="https://raw.githubusercontent.com/ypadhi27/ypadhi27/main/lottie-000_1_1.gif">
 
 - 👩‍💻 **Data Analyst**
 
