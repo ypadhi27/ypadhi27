@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm Yajnasenee</h1>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/69ae9615-fc49-4e05-97af-a0f190fcd10a" width="550" height="350" ">
+  <img src="https://github.com/user-attachments/assets/69ae9615-fc49-4e05-97af-a0f190fcd10a" width="850" height="350" ">
 </p>
 
 
