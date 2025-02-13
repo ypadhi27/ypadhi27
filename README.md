@@ -1,4 +1,5 @@
 <h1 align="center">Hi there👋, I'm Yajnasenee</h1>
+![lottie-000_1_1](https://github.com/user-attachments/assets/d68a58ac-c4e9-4140-8ea2-dd2215ca6a8f)
 
 - 👩‍💻 **Data Analyst**
 
