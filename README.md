@@ -8,16 +8,23 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="r" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="www.powerbi.com](https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer">
-  <img src="https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Symbol.png" alt="Tableau" width="80" height="40"/>
-</a>
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.tableau.com/themes/custom/tableau_www/logo.v2.svg" alt="Tableau" width="80" height="40"/>
-</a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer">
+    <img src="https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Symbol.png" alt="Power BI" width="40" height="40"/>
+  </a>
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Tableau_Logo.png" alt="Tableau" width="40" height="40"/>
+  </a>
 </p>
+
 
 
 
