@@ -15,7 +15,7 @@
   <img src="https://www.tableau.com/themes/custom/tableau_www/logo.v2.svg" alt="Tableau" width="80" height="40"/>
 </a>
 <a href="www.powerbi.com" target="_blank" rel="noreferrer">
-  <img src="https://media.datacamp.com/legacy/v1724169856/image_ff55d03003.png" alt="Tableau" width="80" height="40"/>
+  <img src="https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Symbol.png" alt="Tableau" width="80" height="40"/>
 </a>
 </p>
 
