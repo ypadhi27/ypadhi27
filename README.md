@@ -1,14 +1,17 @@
 <h1 align="center">Hi there👋, I'm Yajnasenee</h1>
 
-- 👩‍💻 **Data Analyst**
-
-- 💬 Ask me about **SQL, Python, R, Tableau, Excel, Power BI**
-
-- 📫 Reach me at:- **ypadhi99@gmail.com**
-<p align="right">
-  <img src="https://github.com/user-attachments/assets/69ae9615-fc49-4e05-97af-a0f190fcd10a" width="250">
-</p>
-
+<table>
+  <tr>
+    <td>
+      - 👩‍💻 **Data Analyst**  
+      - 💬 Ask me about **SQL, Python, R, Tableau, Excel, Power BI**  
+      - 📫 Reach me at:- **ypadhi99@gmail.com**  
+    </td>
+    <td align="right">
+      <img src="https://github.com/user-attachments/assets/69ae9615-fc49-4e05-97af-a0f190fcd10a" width="150">
+    </td>
+  </tr>
+</table>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
