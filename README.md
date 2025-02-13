@@ -1,5 +1,7 @@
 <h1 align="center">Hi there👋, I'm Yajnasenee</h1>
-![lottie-000_1_1](https://github.com/user-attachments/assets/d68a58ac-c4e9-4140-8ea2-dd2215ca6a8f)
+[lottie-000_1_1](https://github.com/user-attachments/assets/5b8baa9e-356d-46fa-b5d8-10af7618976a)
+[Lucy Prf](https://github.com/user-attachments/assets/8a0ba591-de2b-405e-ad46-da6f7223fa26)
+
 
 - 👩‍💻 **Data Analyst**
 
