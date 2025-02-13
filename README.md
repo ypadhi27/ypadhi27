@@ -8,12 +8,6 @@
 
 - 📫 Reach me at:- **ypadhi99@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/your_twitter_handle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="your_twitter_handle" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/your_linkedin_profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your_linkedin_profile" height="30" width="40" />
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
