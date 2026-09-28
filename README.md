@@ -9,7 +9,7 @@
   <a href="mailto:ypadhi99@gmail.com"><img src="https://img.shields.io/badge/Email-ypadhi99%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email"/></a>
   <a href="https://github.com/ypadhi27"><img src="https://img.shields.io/badge/GitHub-ypadhi27-black?style=flat-square&logo=github" alt="GitHub"/></a>
   <img src="https://img.shields.io/badge/Focus-Bioinformatics%20%7C%20Drug%20Design%20%7C%20Clinical%20Research-darkgreen?style=flat-square" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Location-Sweden%20%2F%20Nordic-orange?style=flat-square" alt="Location"/>
+  <img src="https://img.shields.io/badge/Location-India-orange?style=flat-square" alt="Location"/>
 </p>
 
 ---
@@ -123,8 +123,9 @@ I am a bioinformatician and computational biology researcher with a strong multi
 
 ### 📫 Let's Connect!
 
-I am always interested in discussing **translational bioinformatics, computational drug discovery, omics pipeline engineering, and clinical research** opportunities across Sweden, Norway, and greater Europe.
+I am actively open to discussing **translational bioinformatics, computational drug discovery, omics pipeline engineering, and clinical research** opportunities and research collaborations.
 
+- 📍 **Location:** India
 - 📧 **Direct Email:** [ypadhi99@gmail.com](mailto:ypadhi99@gmail.com)
 - 💼 **GitHub:** [@ypadhi27](https://github.com/ypadhi27)
 - 💬 **Ask me about:** RNA-seq workflows, GSEA pathway enrichment, CADD target identification, clinical data harmonisation, and Python/Streamlit dashboards.
